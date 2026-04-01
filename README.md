@@ -8,8 +8,8 @@ I'm a 4th-year Computer Engineering student at Zonguldak Bülent Ecevit Universi
 - 🛡️ **Cyber Security:** Actively solving CTF challenges and exploring penetration testing.
 
 ## 🛠️ Technologies & Skills
-### 🌐 Web & Mobile Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🌐 Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 🤖 Artificial Intelligence & Data
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-LLM-blue?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -21,7 +21,7 @@ I'm a 4th-year Computer Engineering student at Zonguldak Bülent Ecevit Universi
 ![Çağatay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok_yazilim&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ok_yazilim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagatayok) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cagatayok@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cagatay.ok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagatayok) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okcagatay551@gmail.com)
 
 ---
 *“Developing solutions for the future, one line of code at a time.”*
