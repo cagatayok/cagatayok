@@ -17,12 +17,6 @@ I'm a 4th-year Computer Engineering student at Zonguldak Bülent Ecevit Universi
 ### 🔒 Cybersecurity & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-DarkBlue?style=for-the-badge&logo=kalilinux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cagatayok&show_icons=true&theme=radical&hide_border=false" alt="Cagatay's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayok&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
-</p>
-
 ## 📫 Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cagatay.ok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagatayok) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okcagatay551@gmail.com)
 
